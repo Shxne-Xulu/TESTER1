@@ -10,4 +10,4 @@ The three formats(T20, 50 over & Test) will be represented and further segregate
 
 ## T20I:
 
-## 10. Jos Buttler
+## 10. Moeen Ali
